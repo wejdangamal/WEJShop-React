@@ -1,0 +1,10 @@
+.card{
+    height: 450px!important;
+}
+.bu{
+    width: fit-content!important;
+    border-radius: 45px!important;
+    position: fixed !important;
+    left: 89% !important;
+    top: 5%!important;
+}
